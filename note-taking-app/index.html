@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
     <meta charset="UTF-8" />
     <meta name="author" content="Bunmi Akinola" />
     <meta name="description" content="a note taking app built with javascript" />
     <meta name="robots" content="index, follow" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- <link rel="stylesheet" href="style.css" /> -->
+    <link rel="stylesheet" href="style.css" />
     <link rel="icon" href="img/favicon.ico" type="image/x-icon" />
     <script src="app.js" defer></script>
     <title>Quick Notes</title>
@@ -17,27 +16,27 @@
     <header>
       <h1>Quick Notes</h1>
       <div>
-        <button class="add-note-btn" onclick="openNoteDialog()">
+        <button class="add-note-btn wrap">
           + Add Note
         </button>
         <button id="themeToggleBtn" class="theme-toggle-btn">🌙</button>
       </div>
     </header>
 
-    <main id="nontesContainer" class="notes-grid">
+    <main id="notesContainer" class="notes-grid">
 
     </main>
 
-    <dialog open id="noteDialog">
+    <dialog id="noteDialog">
       <div class="dialog-content">
         <div class="dialog-header">
           <h2 class="dialog-title" id="dialogTitle">Add New Note</h2>
-          <button class="close-btn" onclick="closeNoteDialog">x</button>
+          <button class="close-btn">x</button>
         </div>
 
         <form id="noteForm">
           <div class="form-group">
-            <label for="noteTtile" class="form-label">Title</label>
+            <label for="noteTitle" class="form-label">Title</label>
             <input type="text" id="noteTitle" class="form-input" placeholder="Enter note title..." required>
           </div>
 
@@ -47,7 +46,7 @@
           </div>
 
           <div class="dialog-actions">
-            <button type="button" class="cancel-btn" onclick="closeNoteDialog()">Cancel</button>
+            <button type="button" class="cancel-btn">Cancel</button>
             <button type="submit" class="save-btn">Save</button>
           </div>
         </form>
