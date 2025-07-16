@@ -18,7 +18,7 @@ A simple web based note taking app built with HTML, CSS and Javascript. It allow
 
 ## Demo
 
-![screenshot of the app](./img/screenshot.png)
+![screenshot of the app](./img/screenshot-2.png)
 ![screenshot of the app](./img/screenshot-1.png)
 
 ## 📦 How to use
