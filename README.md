@@ -5,3 +5,4 @@ A collection of Javascript projects ranging from beginner to intermediate level.
 ## Projects
 
 - 📝 [Note Taking App](./note-taking-app/)
+- ⛅ [Weather app](./weather-app/)
