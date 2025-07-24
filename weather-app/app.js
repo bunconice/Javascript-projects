@@ -6,7 +6,7 @@ const temp = document.querySelector('.temp');
 const city = document.querySelector('.city');
 const humidity= document.querySelector('.humidity');
 const wind = document.querySelector('.wind');
-const apiKey = "f9b86b6f2aaeda3ed99a9495be21829f";
+const apiKey = "YOUR_API_KEY";
 const weatherIcon = document.querySelector(".weather-icon");
 
 
