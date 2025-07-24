@@ -18,7 +18,7 @@ A simple web-based weather application that allows user to search for a city and
 
 ## 📷 Demo
 
-![Weather App Screenshot](./img/screenshot.png)
+![Weather App Screenshot](./img/Screenshot.png)
 
 ## 📦 Installation
 
