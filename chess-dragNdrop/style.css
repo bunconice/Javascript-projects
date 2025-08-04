@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#gameboard {
+  display: flex;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+}
+
+.beige {
+  background-color: rgb(228, 228, 190);
+}
+
+.brown {
+  background-color: rgb(96, 54, 54);
+}
+
+.chess-piece {
+  cursor: grab;
+}
