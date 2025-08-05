@@ -8,3 +8,4 @@ A collection of Javascript projects ranging from beginner to intermediate level.
 - ⛅ [Weather app](./weather-app/)
 - ✅ [To-do List app](./todo-list-app/)
 - ♟  [chess drag and drop](./chess-dragNdrop/)
+- 📝 [Sticky Notes App](./sticky-notes-app/)
