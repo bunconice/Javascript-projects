@@ -8,6 +8,7 @@ Users can create, move, and delete notes on a beautiful grid background,just lik
 - Custom Colors
 - Create Notes
 - Drag & Drop
+- Delete Notes
 - Stacking
 
 ## Technologies Used
