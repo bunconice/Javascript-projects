@@ -21,7 +21,7 @@ A simple web based note taking app built with HTML, CSS and Javascript. It allow
 ![screenshot of the app](./img/screenshot-2.png)
 ![screenshot of the app](./img/screenshot-1.png)
 
-## 📦 How to use
+## 📦 Installation
 
 1. Clone the repository
 
