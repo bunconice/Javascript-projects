@@ -9,3 +9,4 @@ A collection of Javascript projects ranging from beginner to intermediate level.
 - ✅ [To-do List app](./todo-list-app/)
 - ♟  [chess drag and drop](./chess-dragNdrop/)
 - 📝 [Sticky Notes App](./sticky-notes-app/)
+- ✅ [Drag N Drop To-Do list app](./dragNdrop-todolist/)
