@@ -15,7 +15,7 @@ A web based To-Do list application that allows users to **organize tasks** by dr
 
 ## 📷 Demo
 
-![To-Do List App Screenshot](./img/Screenshot.png)
+![To-Do List App Screenshot](./img/screenshot.png)
 
 ## 📦 Installation
 
