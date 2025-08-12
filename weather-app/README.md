@@ -20,21 +20,21 @@ A simple web-based weather application that allows user to search for a city and
 
 ![Weather App Screenshot](./img/Screenshot.png)
 
-## 📦 Installation
+## 📂 Project Setup
 
-1. Clone the repository:
+- Clone the repository:
 
 ```bash
 git clone https://github.com/bunconice/Javascript-projects.git
 ```
 
-1. Open folder:
+- Open folder:
 
 ```bash
 cd weather-app
 ```
 
-1. Open `index.html` in your browser
+- Open `index.html` in your browser
 
 ## 🧠 How it works
 
