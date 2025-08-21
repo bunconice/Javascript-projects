@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/d4f9320ec3.js" crossorigin="anonymous"></script>
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="music-player">
+      <nav>
+        <div class="btn">
+          <button class="back-btn"></button>
+        </div>
+        <div class="btn">
+          <button class="menu-btn"></button>
+        </div>
+      </nav>
+      <img src="assets/9ice-Album-Cover.jpg">
+      <h1>Gongo Aso</h1>
+      <p>9ice</p>
+      <audio id="song">
+        <source src="assets/9ice-street-credibility-feat2baba.mp3" type="audio/mpeg">
+      </audio>
+      <input type="range" value="0" id="progress">
+      <div class="controls">
+        <div><i class="fa-solid fa-backward"></i></div>
+        <div id="pause-play"><i class="fa-solid fa-play" id="play-icon"></i></div>
+        <div><i class="fa-solid fa-forward"></i></div>
+      </div>
+
+    </div>
+
+
+    <script src="app.js"></script>
+  </body>
+</html>
