@@ -12,3 +12,4 @@ A collection of Javascript projects ranging from beginner to intermediate level.
 - ✅ [Drag N Drop To-Do list app](./dragNdrop-todolist/)
 - 📸 [SnapScroll app](./snapScroll)
 - 🗣️ [Text to Speech App](./text-to-speech/)
+- 🎵 [Music Player App](./music-player/)
